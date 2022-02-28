@@ -1,0 +1,559 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pack of patentees. Opened. Shuffled. Cut. Dealt. And played.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90502</idno>
+            <idno type="STC">Wing P156</idno>
+            <idno type="STC">Thomason E163_5</idno>
+            <idno type="STC">ESTC R16199</idno>
+            <idno type="EEBO-CITATION">99859986</idno>
+            <idno type="PROQUEST">99859986</idno>
+            <idno type="VID">112091</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90502)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112091)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 29:E163[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pack of patentees. Opened. Shuffled. Cut. Dealt. And played.</title>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire in verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Guilds --  England --  London --  Humor --  Early works to 1800.</term>
+               <term>London (England) --  Social life and customs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112091:1"/>
+            <pb facs="tcp:112091:1" rendition="simple:additions"/>
+            <p>A PACK OF PATENTEES.</p>
+            <list>
+               <item>OPENED.</item>
+               <item>SHVFFLED.</item>
+               <item>CVT.</item>
+               <item>DEALT.</item>
+               <item>AND PLAYED.</item>
+            </list>
+            <p>
+               <hi>LONDON,</hi> Printed in the yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb facs="tcp:112091:2"/>
+            <pb n="3" facs="tcp:112091:2"/>
+            <p>A PACK OF PATENTEES.</p>
+            <sp>
+               <speaker>Coales.</speaker>
+               <l>FAine would I write, but that I quake with cold,</l>
+               <l>The ſeaſons of the yeare, are bought and ſold</l>
+               <l>By <hi>Patentees:</hi> yet underground like Moles</l>
+               <l>They have their cells. The devill trades for <hi>Coales,</hi>
+               </l>
+               <l>For Brimſton's very ſcarce (all fiends by kinde)</l>
+               <l>Ile blow my nailes, and then Ile write my minde.</l>
+               <l>I doubt not but in gameing we may jump,</l>
+               <l>For all the knaves were lately turn'd up trump;</l>
+               <l>Which now are in the ſtock; nor can they paſſe</l>
+               <l>For current cheats, except they went to graſſe,</l>
+               <l>And change themſelves to Rams, live ſtill in feare,</l>
+               <l>Yet fire was very cheape, but <hi>Coales</hi> are deare:</l>
+               <l>Which makes me feed ſo coldly, who can tell,</l>
+               <l>What projects beſt to bring 'em out of hell?</l>
+               <l>
+                  <pb n="4" facs="tcp:112091:3"/>Perhaps they are but ſunke into the <hi>ſands,</hi>
+               </l>
+               <l>Which doe reſemble Hell, Ile warme my hands</l>
+               <l>On better termes ere long, but ah muſt I</l>
+               <l>Sit thus a cold untill the <hi>Sands</hi> be dry?</l>
+               <l>No, no, the ſpring tyde comes, which in a day</l>
+               <l>Will kiſſe the banks, and drive the <hi>ſands</hi> away.</l>
+            </sp>
+            <sp>
+               <speaker>Sope.</speaker>
+               <l>WHere's <hi>Sapo</hi> now? he's gone to look his rent,</l>
+               <l>He cannot ſpeed, he'd have his tenants ſhent,</l>
+               <l>And he a Purſevant to fetch 'em in;</l>
+               <l>His hornes are cut, and ſorrowes doe begin</l>
+               <l>To creepe upon him: yet, he gaping ſtands,</l>
+               <l>Craving a fee when I ſhould waſh my hands:</l>
+               <l>I paid him weekly, but Ile pay no more,</l>
+               <l>His ware doth ſtink like him; that quits the ſcore.</l>
+               <l>It ſpoyles my skin, if linnen cannot be</l>
+               <l>Kept cleane and ſweet without a <hi>Patentee,</hi>
+               </l>
+               <l>Weel goe like Turkes. But <hi>Smigmee</hi> he will bring</l>
+               <l>Content to you, and profit to the King;</l>
+               <l>If you will take his word: for he's the chiefe,</l>
+               <l>I wiſh at laſt, he may not prove a thiefe,</l>
+               <l>To Prince and Subject: If he doth he muſt</l>
+               <l>Hold up his head; nor ſhall he goe untruſt.</l>
+               <l>The Laundreſſe will come in when he is try'd,</l>
+               <l>And frame her plea, The Countryes curſe beſide</l>
+               <l>Will light upon him: with a common ſcoff,</l>
+               <l>For all his Sope he came not cleanly off.</l>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:112091:3"/>
+               <stage>Enter Starch.</stage>
+               <l>STay, who goes there in ſuch a ſerious March?</l>
+               <l>One that will ſoon grow ſtiffe; becauſe his <hi>Starch</hi>
+               </l>
+               <l>Doth hang upon his hands; his outward skin</l>
+               <l>Is frighted from the fleſh, he muſt come in</l>
+               <l>And lay the Shipskin downe for his abuſe;</l>
+               <l>His dainti'ſt wares growne ſtale for want of uſe.</l>
+               <l>His white, his ruſſer, and his pureſt blew</l>
+               <l>Is pouder'd up with branne; he's nothing new</l>
+               <l>But tydings of his cheate; He had reveal'd</l>
+               <l>(If he had got but once his Patent ſeal'd)</l>
+               <l>A way for yellow ſtarch. This golden Itch</l>
+               <l>He catcht of <hi>Lucifer,</hi> or of the Witch</l>
+               <l>That firſt deviſed it. He (like them) pretends</l>
+               <l>The good of others, when his private ends</l>
+               <l>Are to inrich himſelfe, but he may learne</l>
+               <l>What two ends be when one ſhall ſerve his turne.</l>
+               <l>I paint him but behinde; but know ere long</l>
+               <l>His looks will ſpeak him, when he holds his tong.</l>
+               <l>I leave him as I found him, full of care;</l>
+               <l>Eaſing his purſe being peſterd with his ware.</l>
+            </sp>
+            <stage>Exit.</stage>
+            <sp>
+               <stage>Enter Leather.</stage>
+               <l>Another <hi>Patentee?</hi> whats he? for Leather,</l>
+               <l>Bring in his Roules, and lay 'em up together.</l>
+               <l>He feeds upon the skin; 'tas been our manner</l>
+               <l>To blame the Shomaker, and then the Tanner,</l>
+               <l>
+                  <pb n="6" facs="tcp:112091:4"/>Cauſe Boots and Shoes are deare, and we are faine</l>
+               <l>To uſe our ſelves to hardneſſe, purchaſe paine,</l>
+               <l>To tame our legges, our Boots being full of holes,</l>
+               <l>We weare the hoofe to ſave a paire of ſoles.</l>
+               <l>Poore <hi>John</hi> the Cobler wee did baniſh hence,</l>
+               <l>Who would not ſole 'em under ſixteene pence<g ref="char:punc">▪</g>
+               </l>
+               <l>But we repent; for ſince he changd his ſtall,</l>
+               <l>His laſt, his bunch of briſtles, and his <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ll</l>
+               <l>Are all at pawne. But <hi>Pellio</hi> rides in ſtate,</l>
+               <l>To gaine the Cities and the Country's hate.</l>
+               <l>Pray let him criſp his lockes; for he has blades</l>
+               <l>And braver Gallants than the knave of Spades</l>
+               <l>To waite upon him; if he goes too farre,</l>
+               <l>Though late for us, too ſoone for him a barre</l>
+               <l>May ſtop his paſe: In earneſt this a jeſt;</l>
+               <l>Though we went barefoot while he fild his cheſt;</l>
+               <l>The Lock is pickt by Law, and he ſhall finde</l>
+               <l>His ſhame new bottom'd when his skins unlinde.</l>
+            </sp>
+            <stage>Exit.</stage>
+            <sp>
+               <stage>Enter Vinum.</stage>
+               <l>IF I were able to direct my line,</l>
+               <l>I'de ſoone finde out the <hi>Patentee for Wine:</hi>
+               </l>
+               <l>But he was ſhriev'd before, and did confeſſe</l>
+               <l>The wrong was none of his; but Ile expreſſe</l>
+               <l>My barren fancie: I am faine to pay</l>
+               <l>For tithe at leaſt three halfe-pence every day:</l>
+               <l>Which makes the <hi>Spaniard</hi> proud, &amp; he doth nurſe</l>
+               <l>The <hi>French</hi> mans folly while he picks my purſe.</l>
+               <l>
+                  <pb n="7" facs="tcp:112091:4"/>The drunkards puniſht moſt, but he'l gaine health,</l>
+               <l>And ſave his money now. The Common-wealth</l>
+               <l>Is bound to praiſe his wit, if he can fill</l>
+               <l>A cheſt of Gold or two, he in his Will</l>
+               <l>Will leave it all to others, who for him</l>
+               <l>Will dig his grave and leave him at the brim:</l>
+               <l>Then in their teares, their love ſhall be expreſt,</l>
+               <l>Except he dies a mile from <hi>London,</hi> Weſt.</l>
+               <l>Ile mix my Wine with water, till I finde</l>
+               <l>The parchment cancel'd, and his haughtie minde</l>
+               <l>Made like <hi>flos liberi,</hi> then may his duſt</l>
+               <l>
+                  <hi>In forma pauperis,</hi> take a grave on truſt.</l>
+               <l>His Motto's this; <hi>Death ſaucily begun</hi>
+               </l>
+               <l>
+                  <hi>To rack up fortie ſhillings in a Tunne.</hi>
+               </l>
+            </sp>
+            <stage>Exit.</stage>
+            <sp>
+               <speaker>Salt White Salt.</speaker>
+               <l>VVEll, now <hi>Salarius</hi> comes, a ſeaſon'd man,</l>
+               <l>With Juſtice made in wax, but if he can</l>
+               <l>He'l broach ſome life into't; If he were free</l>
+               <l>Hee'd prove his armes at large, and you ſhould ſee</l>
+               <l>His pedegree diſplayd; how he would thrive,</l>
+               <l>His ſeaſons paſt, and now he ſtinkes alive.</l>
+               <l>His colours white, but he is black within</l>
+               <l>Being frighted from the ſeale, he'l now begin</l>
+               <l>To bate the price to neighbours; ſell his ſtore</l>
+               <l>For ſingle gaines, his patent coſt him more.</l>
+               <l>But hungry time hath eate it out of ſhape,</l>
+               <l>It gave him colour to commit a Rape</l>
+               <l>Upon the harmleſſe body, his ſtate</l>
+               <l>Sweld like a Maggot in a pudding fate,</l>
+               <l>
+                  <pb n="8" facs="tcp:112091:5"/>Which now hath gather'd wings; and in a while</l>
+               <l>T'will fly abroad. I cannot chuſe but ſmile</l>
+               <l>To ſee theſe Locuſts creepe in every place;</l>
+               <l>Selling their credit they doe buy diſgrace.</l>
+               <l>Their word will be <hi>Sallitus</hi> (in the ſtreet)</l>
+               <l>
+                  <hi>Qui ſapit omnia</hi> could not keepe them ſweet.</l>
+            </sp>
+            <stage>Exit.</stage>
+            <sp>
+               <stage>Enter the Hop.</stage>
+               <l>DIſpatch the Hopman next, he cannot ſtay</l>
+               <l>To take his Bill, except he hops away,</l>
+               <l>He will betray the Pack, why may not he?</l>
+               <l>His wit is level'd with his honeſtie.</l>
+               <l>His wares have loſt their ſweetnes, ſent, and hue,</l>
+               <l>The old are off his hands, as for the new</l>
+               <l>The times have ſpoyl'd their ſale, yet he could ſell</l>
+               <l>His Patent deare enough to thoſe in hell.</l>
+               <l>But they can brew no drinke in ſtead of beare,</l>
+               <l>They have each minute every one a teare.</l>
+               <l>His ſhame brews griefe, when da<g ref="char:cmbAbbrStroke">̄</g>ger finds no ſtops,</l>
+               <l>Tis boyl'd, tun'd, purg'd, and it needs no hops</l>
+               <l>To give its relliſh, he would faine be ſhift</l>
+               <l>Of what he ſu'd for, but it is the drift</l>
+               <l>Of all his Chapmen that doe live in Towne,</l>
+               <l>To keepe up Hops and let the man goe downe.</l>
+               <l>Conceit hath fild his purſe, but he will finde,</l>
+               <l>Although he went before, he came behinde;</l>
+               <l>'Tis eaſly knowne to what his gaine amounts,</l>
+               <l>But very hard to caſt up his accompts.</l>
+            </sp>
+            <stage>Exit.</stage>
+            <sp>
+               <pb n="9" facs="tcp:112091:5"/>
+               <stage>Enter Tobacco.</stage>
+               <l>NOw <hi>Fumus</hi> comes alone; for he hath rais'd</l>
+               <l>Great profit out of naught; and he'd be prais'd</l>
+               <l>For his Induſtry, cauſe he loves the King,</l>
+               <l>He'l turne Impoſtor or be any thing</l>
+               <l>To ſhew his ſervice to him, he will make</l>
+               <l>You buy your livelihood, or he will take</l>
+               <l>Your libertie away; He lately made</l>
+               <l>A Law by word of Mouth, to take your trade</l>
+               <l>A priſoner to himſelfe, to keepe his pride</l>
+               <l>Lay downe your fine, and pay your rent beſide:</l>
+               <l>Beleeve him tis his due; but all this while</l>
+               <l>I heare Saint <hi>Kit. Virginia</hi> doth beguile,</l>
+               <l>And he deceives us all, he's diſcontent,</l>
+               <l>His ſaucy tenants will not pay him rent.</l>
+               <l>For that which turnes to ſmoake, nor chop with thoſe</l>
+               <l>On whom he ſpits his ſtrength, or doth impoſe</l>
+               <l>His ſecrets in by weight, thence tryd he's cauſe</l>
+               <l>As <hi>Contra bonum,</hi> and againſt the Lawes,</l>
+               <l>His projects made with weeds, and emptie breath,</l>
+               <l>By ſuch another he may catch his death.</l>
+            </sp>
+            <stage>Exit.</stage>
+            <sp>
+               <speaker>Gold Wyer.</speaker>
+               <l>THen came <hi>Auriligus</hi> to try his ſtrength,</l>
+               <l>He hath a Seale to draw you out at length,</l>
+               <l>If youle be pliable, reſigne your purſe,</l>
+               <l>He'l Wyer-draw your wealth, and give a curſe</l>
+               <l>
+                  <pb n="10" facs="tcp:112091:6"/>To make up weight, or if you want a graine,</l>
+               <l>This Knave puts in himſelfe to make up twaine.</l>
+               <l>He do's but fine your pride; why may not he</l>
+               <l>Take cuſtome for your ſinne (pay but your fee</l>
+               <l>And he'l remit your fault) as well as thoſe</l>
+               <l>Which men pay for kiſſing? proving foes</l>
+               <l>To men with emptie purſes, yet this ſlave</l>
+               <l>Hath gain'd no more than what will buy a grave,</l>
+               <l>To bury all his worth, what needs he more?</l>
+               <l>For he was dead in both his ends before.</l>
+               <l>Poore men muſt live to labour, they muſt give</l>
+               <l>Him tribute for their lives, and he muſt live</l>
+               <l>By their undoing. Now he'as loſt his prey,</l>
+               <l>It's keeper ſlips aſide, he runs away.</l>
+               <l>Pray charge him with diſgrace, then quit the ſtage,</l>
+               <l>His Golden dayes wore out an Iron age.</l>
+            </sp>
+            <stage>Exit.</stage>
+            <sp>
+               <speaker>Warr Hornes.</speaker>
+               <l>BEware the Horner comes, he can tranſport</l>
+               <l>The Calves defence, the O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, or any ſort</l>
+               <l>Which are within his Liſt, this Beaſt is free,</l>
+               <l>He'l ſuffer none to trade in hornes but he.</l>
+               <l>Speak, will you have them rough? then they are put</l>
+               <l>In univerſall termes; If they are cut</l>
+               <l>He'l change them into Combes, with privy theft</l>
+               <l>He'l barrell ſhame, he'has a Coxcombe left,</l>
+               <l>Which he will uſe himſelfe, his ware doth ſtink,</l>
+               <l>The Devills hornes are ſhort, and he do's thinke</l>
+               <l>To trade with him by whole-ſale, then he may</l>
+               <l>Be carri'd hence, he need not run away.</l>
+               <l>
+                  <pb n="11" facs="tcp:112091:6"/>He muſt have roome, though he be built for ſtore,</l>
+               <l>An Aſſe behinde, is like an Oxe before.</l>
+               <l>His fortunes hard, nor can he hold his tongue,</l>
+               <l>He keepes his Patent, and his Hornes too long,</l>
+               <l>Which render him a Beaſt, ſo let him paſſe,</l>
+               <l>He ſhall be kept at Houſe, not put to graſſe,</l>
+               <l>Till he hath ſhed his Coate, then like a Deare,</l>
+               <l>He'l caſt his Hornes, but cannot ev'ry yeare</l>
+               <l>Increaſe againe, new <hi>Cornigenus</hi> muſt</l>
+               <l>Reſtore men right, which he did keep on truſt.</l>
+            </sp>
+            <stage>Exit.</stage>
+            <sp>
+               <speaker>Butter.</speaker>
+               <l>NOw heres a ſlippery Merchant, hold him faſt,</l>
+               <l>His Patent ſeal'd with Butter, at a caſt</l>
+               <l>He'l venture all his worth, he would be rich,</l>
+               <l>And make ten thouſand pay for't; but his itch</l>
+               <l>Is ſomewhat coole, which formerly did burne,</l>
+               <l>A Rope with Butter's like to ſerve his turne:</l>
+               <l>His greaſe begins to melt, a running ſore</l>
+               <l>Is broke behinde, becauſe he rob'd the poore.</l>
+               <l>The richer ſort might let his project paſſe,</l>
+               <l>He'l bring 'em back a gilded looking glaſſe,</l>
+               <l>To trim their folly by: but ah! poore I</l>
+               <l>Am never well but when my ſauce-pans dry.</l>
+               <l>To feed the Flemings he would ſtarve his friend,</l>
+               <l>Time has bewraid his plot, and croſt his end.</l>
+               <l>He muſt be baſted ere I have my wiſh,</l>
+               <l>Ile buy a Ferkin now, whereas a diſh</l>
+               <l>Was us'd to ſerve me, let this ſcraping gull</l>
+               <l>Be ſalted up himſelfe, his Tubs are full</l>
+               <l>
+                  <pb n="12" facs="tcp:112091:7"/>O'th Anagram of Durt, ſo foule his caſe</l>
+               <l>Doth now appeare, but if a Farmers place</l>
+               <l>Were ſeal'd unto him, he might trade agen,</l>
+               <l>In ſtead of Ferkins hee'd have Hogsheads then.</l>
+            </sp>
+            <stage>Exit.</stage>
+            <sp>
+               <speaker>Raggs.</speaker>
+               <l>THe Rag-man's come at laſt, who proves his plot</l>
+               <l>To be but Kennell deep, and yet this ſot</l>
+               <l>Is deeper in the ſhame than he which groanes</l>
+               <l>His length from earth, or naſtie marrow-bones.</l>
+               <l>Some ſweep their houſes, others rake the ſtreet,</l>
+               <l>To make his pack, and if he do's but meet</l>
+               <l>One that has rob'd the Gutters, hee's the taker,</l>
+               <l>For he was truly borne a dung-hill-raker.</l>
+               <l>His ſervants weare his cloth, who ere you finde</l>
+               <l>With little Dung-rakes, and with bags behinde,</l>
+               <l>Can blaze his Armes at large, he makes his brags</l>
+               <l>That he's growne whole, and they doe ſhift their tags</l>
+               <l>Six times a week, but once a moneth he bets,</l>
+               <l>They'd have the linnen which the Hangman gets,</l>
+               <l>But that his Patent was not wiſely drawne,</l>
+               <l>To hold in Law; his brames were laid to pawne</l>
+               <l>For Country <hi>Tom's</hi> old linnen (to begin)</l>
+               <l>Except the ſhrowd which he was buried in.</l>
+               <l>Pray view this totter'd patch, as he appeares,</l>
+               <l>His Coate is ſhed, and he may ſhake his eares.</l>
+            </sp>
+            <stage>Exit.</stage>
+            <stage>
+               <pb n="13" facs="tcp:112091:7"/>
+               <hi>The reſt ſhuffled up together.</hi>
+            </stage>
+            <l>WE'l ſhuffle up the pack, thoſe that before</l>
+            <l>Did play at poſt &amp; par<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> muſt play no more;</l>
+            <l>For they are of a ſuit. A Courtiers face</l>
+            <l>Would face out all, but that he wants an Ace.</l>
+            <l>The former loſt their ſtakes; were they no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> gone,</l>
+            <l>(Their games being play'd) they might be lookers on.</l>
+            <l>But <hi>Marrow-bones</hi> muſt ſhuffle, he begins,</l>
+            <l>Who <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> forgot the ſtock; yet challeng'd Pins</l>
+            <l>To prick them in the middle: not agreed,</l>
+            <l>In ſhuffling one another, they proceed</l>
+            <l>To take the Dice, and end it with a throw;</l>
+            <l>
+               <hi>Pins</hi> was above, and <hi>Marrow-bones</hi> below:</l>
+            <l>Had broke <hi>Tobacco-Pipes,</hi> had he been dry'd,</l>
+            <l>
+               <hi>New-Corporation</hi> betting on his ſide,</l>
+            <l>Did make <hi>Gold waights</hi> his partner, and <hi>Bone-lace</hi>
+            </l>
+            <l>Would play with <hi>Pins,</hi> who quickly gave him place.</l>
+            <l>Their faults were ſhuffled in, and every man</l>
+            <l>Will deale 'em to his partner if he can.</l>
+            <l>They dodg in the beginning, all are vext,</l>
+            <l>The Cards are ſhuffled now, the Cuttings next.</l>
+            <stage>The Cutting.</stage>
+            <l>THey lift for Dealing firſt, <hi>Gold waights</hi> would fight,</l>
+            <l>(who cut a knave) cauſe <hi>Pins</hi> was leaſt in ſight,</l>
+            <l>And got the Dealing, then they raiſ'd their ſpleen,</l>
+            <l>
+               <hi>Waights</hi> had a cut that all his faults were ſeen.</l>
+            <l>The ſpirits being laid, they change their place,</l>
+            <l>And <hi>Marrow-bones</hi> muſt deale, he cut an Ace.</l>
+            <l>
+               <pb n="14" facs="tcp:112091:8"/>They give each other names: who had the <hi>deale</hi>
+            </l>
+            <l>They cald the <hi>Gooſe,</hi> and <hi>Lace</hi> they ſtyld the <hi>Veale,</hi>
+            </l>
+            <l>
+               <hi>Gold waights</hi> the bragging <hi>Turky,</hi> they did paſſe</l>
+            <l>On <hi>Pins</hi> that loſt the deale, the <hi>Prick-ear'd Aſſe.</hi>
+            </l>
+            <l>The Gamſters alter'd; they be few, were men</l>
+            <l>Now chang'd to beaſts and foule, they cut agen.</l>
+            <l>
+               <hi>Veale</hi> bleats an oath, <hi>Gooſe</hi> creaked out a curſe,</l>
+            <l>Who did but pick, they ſcorn'd to cut a purſe.</l>
+            <l>Then <hi>Prickeare</hi> bray'd, the <hi>Turky</hi> ſtretcht his neck,</l>
+            <l>But he that was to deale, did give a Beck</l>
+            <l>On eares to cut the Cards, who cut ſo low,</l>
+            <l>He turn'd the pack, that ſtander by might know</l>
+            <l>The turning Card that <hi>Veale</hi> with dealing rubs,</l>
+            <l>Firſt came the Ace, and then the knave of Clubs.</l>
+            <stage>The Dealing.</stage>
+            <l>VVEll now he deales about, &amp; yet their game</l>
+            <l>With free allowance had not got a name.</l>
+            <l>The Cards prove bad, they are mad at what they doe,</l>
+            <l>They're every one a ſcurvie trick or two:</l>
+            <l>And all are like to looſe: one he will have</l>
+            <l>Another deale, and play at Noddy-knave.</l>
+            <l>To which they did agree; but yet at laſt</l>
+            <l>New-cut muſt be their lift, and then they caſt</l>
+            <l>The knaves for partners, which are now to ſeek,</l>
+            <l>They had not wit enough to play at Gleek.</l>
+            <l>Their Patents lay at ſtake, and they that win</l>
+            <l>Muſt caſt the ſhame away they'r ſetled in.</l>
+            <l>To play a night away, for feare the Sunne</l>
+            <l>Should note their way, they having but begun;</l>
+            <l>
+               <pb n="15" facs="tcp:112091:8"/>Their brains were thick, they playd at ſix &amp; ſeven,</l>
+            <l>New-cut but dealt, they broke up at eleven.</l>
+            <l>Now three-Card noddy having chang'd his place,</l>
+            <l>Muſt be the Game, but they miſtooke the caſe,</l>
+            <l>In putting out fifteens, but now yee may</l>
+            <l>Work up your wits in jeſt and ſee 'em play.</l>
+            <stage>The Playing.</stage>
+            <l>THe Purſevant ſits by, he'l be their Scribe,</l>
+            <l>And reckon juſt, unleſſe he takes a bribe.</l>
+            <l>When three were fluſh of foure, eldeſt hand</l>
+            <l>Had got a great paire Royall; he did ſtand</l>
+            <l>Upon his priviledge, and caſt a plot</l>
+            <l>To win the Game; but he was out a ſpot.</l>
+            <l>But having ſpi'd a Courtier, up he ſtarts,</l>
+            <l>The while his partner turn'd the knave of Harts</l>
+            <l>For Noddy knave, who tooke another in,</l>
+            <l>Which made a paire, and yet he could not win.</l>
+            <l>The third had double Sequents, and a way</l>
+            <l>To have a double game, but's fooliſh play</l>
+            <l>Hath daſht his hopes, the laſt had ſix fifteens,</l>
+            <l>With changing Cards, who thought that Kings &amp; Queens</l>
+            <l>Would beare him out in being at a ſtand,</l>
+            <l>They'd gladly part their ſtakes at even hand,</l>
+            <l>The Officer writes — nor can he ſee,</l>
+            <l>A bribe come to him, nor a ſingle ſee.</l>
+            <l>The Gamſters breake, and part, they ſate enough;</l>
+            <l>For juſtice challeng'd them to play at Rough.</l>
+            <l>She hath her eyes, though Painters paint her blind,</l>
+            <l>She made them run, and leave their ſtakes behind.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
